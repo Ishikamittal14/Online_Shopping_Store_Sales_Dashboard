@@ -1,6 +1,9 @@
 # Online Shopping Store Power BI Dashboard
 
-## Project Overview
+# 📊 Power BI Sales Dashboard (Excel Data)
+This project showcases an interactive Power BI dashboard developed using an Excel dataset to analyze and visualize global sales data. The dashboard provides meaningful business insights by tracking sales performance, profitability, customer behavior, and regional trends through clean and dynamic visuals.
+
+# 🚀 Project Overview
 This Power BI project analyzes the sales and profit performance of an online shopping store.  
 It provides a clear and interactive view of how different regions, customer segments, and product categories contribute to total sales and profitability.
 
@@ -8,17 +11,17 @@ The goal is to enable business stakeholders to make data-driven decisions by ide
 
 ---
 
-## Tools Used
+🛠 Tools & Technologies Used
 - **Microsoft Power BI Desktop** – For creating dashboards and visualizations  
 - **Microsoft Excel** – For dataset creation and data cleaning  
 - **DAX (Data Analysis Expressions)** – For calculated measures and KPIs  
 
 ---
 
-## Dataset Description
+# 📁 Dataset Description
 The dataset contains detailed sales transaction records, including customer information, order details, and product data.
 
-### **Key Columns**
+🔍**Key Columns**
 | Category | Columns |
 |-----------|----------|
 | Customer Information | CustomerID, Name, Gender, Age, City, State |
@@ -29,7 +32,7 @@ The dataset contains detailed sales transaction records, including customer info
 
 ---
 
-##  Dashboard Features
+## 📌 Dashboard Features
 The dashboard includes the following visuals:
 
 - **KPI Cards:** Display total Sales, Profit, Quantity, and Average Discount  
@@ -41,7 +44,7 @@ The dashboard includes the following visuals:
 
 ---
 
-## Key Insights
+##🔍 Key Insights
 - The **South region** recorded the highest total sales and profit.  
 - **Technology** category generated the most profit margin.  
 - **Consumer segment** contributed the maximum number of orders.  
@@ -50,7 +53,7 @@ The dashboard includes the following visuals:
 
 ---
 
-##  Conclusion
+## 🤝  Conclusion
 This Power BI dashboard effectively visualizes sales and profitability trends for an online shopping store.  
 It helps identify high-performing regions, profitable categories, and sales opportunities.  
 Through data visualization, it empowers data-driven decision-making and business optimization.
@@ -69,6 +72,6 @@ Through data visualization, it empowers data-driven decision-making and business
 
 ---
 
-##  End of Project
+## 📬 End of Project
 **Project by:** Ishika Mittal  
 *(Power BI Sales Analytics Project – Online Shopping Store)*
